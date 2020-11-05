@@ -6,3 +6,5 @@ echo $var
 myvar=$var
 echo $myvar
 printenv
+export var=abc
+echo $var
