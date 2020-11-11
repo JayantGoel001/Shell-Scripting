@@ -1,0 +1,2 @@
+MYLOC="/"
+export MYLOC
