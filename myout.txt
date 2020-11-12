@@ -13,3 +13,4 @@ total 16
 -rw-r--r-- 1 Hannah 197121  93 Nov  6 03:58 variables.sh
 -rw-r--r-- 1 Hannah 197121 227 Nov 10 12:55 whileloop.sh
 MoreLogs
+whoiam
