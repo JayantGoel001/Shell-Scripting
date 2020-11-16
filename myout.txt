@@ -1,16 +1,16 @@
 total 16
--rw-r--r-- 1 Hannah 197121 128 Nov  6 04:06 Comments.sh
--rw-r--r-- 1 Hannah 197121 229 Nov  9 18:57 conditionals.sh
--rw-r--r-- 1 Hannah 197121 112 Nov 10 12:29 forloop.sh
+-rw-r--r-- 1 Hannah 197121 128 Novemberember  6 04:06 Comments.sh
+-rw-r--r-- 1 Hannah 197121 229 Novemberember  9 18:57 conditionals.sh
+-rw-r--r-- 1 Hannah 197121 112 Novemberember 10 12:29 forloop.sh
 -rwxr-xr-x 1 Hannah 197121  31 Oct 30 03:38 helloworld.sh
--rw-r--r-- 1 Hannah 197121   0 Nov 11 13:26 myout.txt
--rw-r--r-- 1 Hannah 197121 397 Nov 11 12:53 numbers_arithmatics.sh
+-rw-r--r-- 1 Hannah 197121   0 Novemberember 11 13:26 myout.txt
+-rw-r--r-- 1 Hannah 197121 397 Novemberember 11 12:53 numbers_arithmatics.sh
 -rw-r--r-- 1 Hannah 197121  17 Oct 30 03:43 path.sh
 -rw-r--r-- 1 Hannah 197121  42 Oct 30 03:39 README.md
--rw-r--r-- 1 Hannah 197121  54 Nov 11 13:26 redirect_file.sh
--rw-r--r-- 1 Hannah 197121 180 Nov 11 12:36 string_processing.sh
--rw-r--r-- 1 Hannah 197121  50 Nov 10 12:48 untilloop.sh
--rw-r--r-- 1 Hannah 197121  93 Nov  6 03:58 variables.sh
--rw-r--r-- 1 Hannah 197121 227 Nov 10 12:55 whileloop.sh
+-rw-r--r-- 1 Hannah 197121  54 Novemberember 11 13:26 redirect_file.sh
+-rw-r--r-- 1 Hannah 197121 180 Novemberember 11 12:36 string_processing.sh
+-rw-r--r-- 1 Hannah 197121  50 Novemberember 10 12:48 untilloop.sh
+-rw-r--r-- 1 Hannah 197121  93 Novemberember  6 03:58 variables.sh
+-rw-r--r-- 1 Hannah 197121 227 Novemberember 10 12:55 whileloop.sh
 MoreLogs
 whoiam
