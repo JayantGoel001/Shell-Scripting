@@ -14,3 +14,4 @@ total 16
 -rw-r--r-- 1 Hannah 197121 227 Novemberember 10 12:55 whileloop.sh
 MoreLogs
 whoiam
+Testing modularising script
